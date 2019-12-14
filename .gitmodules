@@ -1,0 +1,3 @@
+[submodule "ProcedureKit"]
+	path = ProcedureKit
+	url = https://github.com/ProcedureKit/ProcedureKit
